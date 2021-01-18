@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce204f5e-0d5b-472c-9c47-4ea9efeedb22" name="Default Changelist" comment="" />
+    <list default="true" id="ce204f5e-0d5b-472c-9c47-4ea9efeedb22" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offcn/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offcn/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/offcn/utils/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/offcn/utils/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/aaa.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/aaa.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/apache-maven-3.5.3" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.5.3" />
         <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -30,6 +45,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -62,10 +78,44 @@
       <option name="presentableId" value="Default" />
       <updated>1610938825079</updated>
       <workItem from="1610938826818" duration="678000" />
+      <workItem from="1610962329886" duration="556000" />
     </task>
+    <task id="LOCAL-00001" summary="xxxx">
+      <created>1610962482168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610962482168</updated>
+    </task>
+    <task id="LOCAL-00002" summary="xxxx">
+      <created>1610962596930</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610962596930</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="xxxx" />
+    <option name="LAST_COMMIT_MESSAGE" value="xxxx" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1610962594953">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1610962594953" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1610962625215">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1610962625215" />
+    <state x="357" y="143" key="git4idea.merge.GitPullDialog" timestamp="1610962732015">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="357" y="143" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1610962732015" />
   </component>
 </project>

@@ -18,6 +18,10 @@ public class DateUtils {
         return d;
     }
 
+    public static String dateToString(Date d){
+        return "";
+    }
+
 
 
 }

@@ -8,4 +8,6 @@ public interface ProductDao {
     public List<Product> findAllProductByState(int state);
 
     public Product findProductById(int id);
+
+
 }
